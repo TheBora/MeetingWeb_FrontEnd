@@ -1,2 +1,2 @@
 # MeetingWeb_FrontEnd
-React JS application from VisualMix.
+React JS application to VisualMix.
